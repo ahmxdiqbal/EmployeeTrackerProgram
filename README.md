@@ -1,4 +1,4 @@
-# EmployeerackerProgram
+# EmployeeTrackerProgram
 
  This program gets opens a file named "Employee.txt", and sends it to a function in the 
  FileIO class(header file included) to read its contents into an array of dynamically allocated
